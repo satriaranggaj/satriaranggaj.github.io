@@ -1,6 +1,12 @@
+.navbar-brand{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
+  font-weight: bold;
+  font-family: arial;
 }
 #project {
   background-color: #e2edff;
