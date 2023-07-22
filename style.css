@@ -1,0 +1,22 @@
+.navbar-brand{
+  font-family: arial;
+  font-weight: bold;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  font-weight: bold;
+  font-family: arial;
+}
+#project {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+.gallery-img{
+  width: 100%;
+}
+#gallery .row > *{
+  padding: 0;
+}
